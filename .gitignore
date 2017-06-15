@@ -42,3 +42,5 @@ Backup/
 *.orig
 DownloadSigned/
 RestSharp.IntegrationTests/config.json
+# ignore the loca configuration
+config.xml
